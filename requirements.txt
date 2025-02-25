@@ -4,3 +4,4 @@ opencv-python
 pytesseract
 pdf2image
 numpy
+python-multipart
